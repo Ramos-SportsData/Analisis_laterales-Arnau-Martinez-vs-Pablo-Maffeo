@@ -45,14 +45,11 @@ Maffeo y Martínez representan dos formas distintas de entender el rol de latera
 
 Limitaciones
 Muestra de un solo jugador por equipo y una sola temporada: no permite generalizar conclusiones sobre el "mejor lateral de LaLiga".
+
 El On/Off no controla por la calidad del rival ni por quién sustituye al jugador cuando no está en el campo.
+
 Los datos de goles con/sin el jugador se derivan por diferencia respecto al total de temporada, no de un desglose partido a partido.
-Estructura del repositorio
-├── datos_laterales.csv        # Dataset con los 15 datos de origen
-├── analisis_laterales.ipynb   # Notebook con el cálculo y los gráficos
-├── grafico_completo.png       # Gráfico de barras comparativo
-├── grafico_radar.png          # Gráfico radar del perfil de cada jugador
-└── README.md                  # Este archivo
+
 Autor
 
 Ramos_data — proyecto de aprendizaje de Python y análisis de datos deportivos.
