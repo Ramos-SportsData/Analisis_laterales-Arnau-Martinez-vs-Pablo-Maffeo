@@ -23,10 +23,6 @@ Intercepciones/90	1,12	1,25
 Tackles/90	1,15	1,32
 Puntos del equipo / partido	0,96	1,20
 
-Mostrar imagen
-
-Mostrar imagen
-
 Interpretación del perfil comparativo
 Aportación ofensiva
 Generación de centros (Cruces/90): Maffeo destaca claramente sobre Martínez (2,87 vs. 1,69), un perfil de lateral centrado en ganar la banda y buscar el área mediante centros.
