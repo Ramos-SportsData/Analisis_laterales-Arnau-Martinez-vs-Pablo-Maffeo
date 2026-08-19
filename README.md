@@ -55,4 +55,4 @@ Estructura del repositorio
 └── README.md                  # Este archivo
 Autor
 
-(tu nombre) — proyecto de aprendizaje de Python y análisis de datos deportivos.
+Ramos_data — proyecto de aprendizaje de Python y análisis de datos deportivos.
